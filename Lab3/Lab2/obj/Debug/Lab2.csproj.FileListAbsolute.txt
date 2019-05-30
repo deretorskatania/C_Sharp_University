@@ -1,0 +1,14 @@
+D:\Таня\универ\3 курс\Net\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+D:\Таня\универ\3 курс\Net\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\Таня\универ\3 курс\Net\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\Таня\универ\3 курс\Net\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\Таня\универ\3 курс\Net\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\Таня\универ\3 курс\Net\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\Таня\универ\3 курс\Net\Lab2\Lab2\obj\Debug\Lab2.pdb
+D:\Таня\универ\3 курс\_Net\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+D:\Таня\универ\3 курс\_Net\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\Таня\универ\3 курс\_Net\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\Таня\универ\3 курс\_Net\Lab2\Lab2\obj\Debug\Lab2.pdb
+D:\Таня\универ\3 курс\_Net\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\Таня\универ\3 курс\_Net\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\Таня\универ\3 курс\_Net\Lab2\Lab2\bin\Debug\Lab2.pdb
